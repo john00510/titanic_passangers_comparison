@@ -6,7 +6,7 @@ local path example: datasets/base_datasets/titanic-passengers.csv
 REST API example: https://public.opendatasoft.com/api/records/1.0/search/?dataset=titanic-passengers
 
 2) INSTALLATION
-python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps titanic_passangers_comparison-yuri0051
+git clone https://john00510/titanic_passangers_comparison.git
 
 3) COMMAND EXAMPLES
 
