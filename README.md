@@ -6,7 +6,7 @@ local path example: datasets/base_datasets/titanic-passengers.csv
 REST API example: https://public.opendatasoft.com/api/records/1.0/search/?dataset=titanic-passengers
 
 2) INSTALLATION
-git clone https://john00510/titanic_passangers_comparison.git
+git clone https://github.com/john00510/titanic_passangers_comparison.git
 
 3) COMMAND EXAMPLES
 

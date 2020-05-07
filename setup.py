@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="titanic_passangers_comparison-yuri0051",
+    name="titanic_passangers_comparison",
     version="0.0.1",
     author="Yuri",
     author_email="example@email.com",
