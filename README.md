@@ -7,6 +7,8 @@ REST API example: https://public.opendatasoft.com/api/records/1.0/search/?datase
 
 2) INSTALLATION
 git clone https://github.com/john00510/titanic_passangers_comparison.git
+pipenv install
+pipenv shell
 
 3) COMMAND EXAMPLES
 
