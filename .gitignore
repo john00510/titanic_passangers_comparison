@@ -1,0 +1,4 @@
+**/build
+**/dist
+**/titanic_passangers_comparison.egg-info
+**/__pycache__
